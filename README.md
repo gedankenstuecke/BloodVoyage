@@ -17,6 +17,9 @@ Cormac McCarthy's *Blood Meridian* was born to the Leonid meteor showers. This
 simple Markov chain-based bots posts to Twitter/Tumblr what happens if you mix
 *Blood Merdian* and *The Voyage of the Beagle*.
 
+You can find a sample implementation [on Twitter](https://twitter.com/TheBloodVoyage)
+and [on Tumblr](http://thebloodvoyage.tumblr.com/)
+
 ## Requirements
 The bot is based on *Python* and requires on some libraries:
 * [NLTK](http://www.nltk.org/) & its *Punkt* models
